@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 58,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-29T23:22:04Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sheila Dang",
+      "title": "Snap beats revenue and user growth estimates, announces $500 million buyback - Yahoo Finance",
+      "description": "Snap beat Wall Street expectations for both quarterly revenue and user growth on Tuesday, as the parent company of messaging app Snapchat has been able to...",
+      "url": "https://finance.yahoo.com/news/snap-beats-revenue-user-growth-201149114.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/f320c09cc23ed550f9a2b9a8a083ed6e",
+      "publishedAt": "2024-10-29T23:19:51Z",
+      "content": "By Sheila Dang\r\n(Reuters) - Snap beat Wall Street expectations for both quarterly revenue and user growth on Tuesday, as the parent company of messaging app Snapchat has been able to lure back some a… [+1414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh",
+      "title": "S&P 500 futures tick higher as Alphabet shares jump on earnings beat: Live updates - CNBC",
+      "description": "A slew of key quarterly reports kicked off the busiest week of earnings season.",
+      "url": "https://www.cnbc.com/2024/10/29/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108036819-17267845342024-09-19t203208z_22044217_rc2w3aau5wyl_rtrmadp_0_usa-stocks.jpeg?v=1726846198&w=1920&h=1080",
+      "publishedAt": "2024-10-29T23:01:00Z",
+      "content": "S&amp;P 500 futures rose on Tuesday night, as traders prepared for additional reports from major tech companies and looked ahead to a key reading on the economy's growth. \r\nFutures tied to the broad … [+1829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hamza Shaban",
+      "title": "Alphabet stock soars as earnings crush estimates on strong cloud growth - Yahoo Finance",
+      "description": "Alphabet announced third quarter earnings, kicking off a week of Big Tech results.",
+      "url": "https://finance.yahoo.com/news/alphabet-stock-soars-as-earnings-crush-estimates-on-strong-cloud-growth-213627854.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QdkJsSazcZmNDoYVknjlDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/46d1a4e0-9563-11ef-87fc-a2a13bd81896",
+      "publishedAt": "2024-10-29T21:36:29Z",
+      "content": "Google parent Alphabet's (GOOG, GOOGL) stock surged 6% in after-hours trading Tuesday as the company reported fiscal third quarter earnings that beat analysts' estimates on the top and bottom lines, … [+2392 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Miles Klee",
+      "title": "Elon Musk Is Offering People His Sperm While Creating a Family Compound in Texas - Rolling Stone",
+      "description": "Elon Musk wants to donate sperm to friends and acquaintances as he expands his family in an Austin, Texas compound to combat falling birth rates.",
+      "url": "http://www.rollingstone.com/culture/culture-news/elon-musk-sperm-compound-texas-1235146555/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/10/elon-musk-family-compound.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2024-10-29T21:19:29Z",
+      "content": "In May of 2020, billionaire Elon Musk unexpectedly declared on Twitter (now X) that he was “selling almost all physical possessions.” Going a step further, he added: “Will own no house.” In interview… [+5922 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "AMD Q3 earnings: Stock falls as Q4 outlook disappoints - Yahoo Finance",
+      "description": "AMD stock fell Tuesday, after the company provided a Q4 forecast below expectations.",
+      "url": "https://finance.yahoo.com/news/amd-q3-earnings-stock-falls-as-q4-outlook-disappoints-170138497.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZzCTE5NQCJhOCFS_F0KFEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/bf355360-4f6c-11ef-8f7b-d59c26ffd5f2",
+      "publishedAt": "2024-10-29T20:58:52Z",
+      "content": "AMD (AMD) reported its fiscal third quarter earnings on Tuesday, meeting expectations on earnings per share and beating on revenue. But Wall Street wasn't too keen on the company's Q4 revenue outlook… [+2427 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Exclusive | Visa Plans to Lay Off Around 1,400 Employees and Contractors - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/business/visa-plans-to-lay-off-around-1-400-employees-and-contractors-cd278c71",
+      "urlToImage": null,
+      "publishedAt": "2024-10-29T20:40:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Bill Peters",
+      "title": "Chipotle’s new CEO maintains focus on faster service as sales fall short - MarketWatch",
+      "description": "Chipotle’s stock falls as sales trends come up shy in third-quarter earnings",
+      "url": "https://www.marketwatch.com/story/chipotle-sales-trends-come-up-short-and-stock-falls-549ce9d9",
+      "urlToImage": "https://images.mktw.net/im-05834077/social",
+      "publishedAt": "2024-10-29T20:30:00Z",
+      "content": "Shares of Chipotle Mexican Grill Inc. fell after hours on Tuesday, after the Mexican fast-casual chain reported weaker-than-expected quarterly sales trends and pointed to an uptick in costs from tryi… [+326 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Visa.com"
+      },
+      "author": null,
+      "title": "Visa Fiscal Fourth Quarter and Full-Year 2024 Financial Results - Visa Inc. - Investor Relations",
+      "description": "Visa (NYSE: V) today announced its fiscal fourth quarter and full-year 2024 financial results through an earnings release that will be furnished with the Securities and Exchange Commission on a Form 8-K and available on its Investor Relations website at inves…",
+      "url": "https://investor.visa.com/news/news-details/2024/Visa-Fiscal-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx",
+      "urlToImage": null,
+      "publishedAt": "2024-10-29T20:10:24Z",
+      "content": "SAN FRANCISCO--(BUSINESS WIRE)-- \r\n Visa (NYSE: V) today announced its fiscal fourth quarter and full-year 2024 financial results through an earnings release that will be furnished with the Securitie… [+1002 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jonathan Vanian",
+      "title": "Reddit shares soar 22% on earnings beat and better-than-expected forecast - CNBC",
+      "description": "Reddit reported third-quarter results that exceeded analysts' estimates and gave a forecast for the current period that was well ahead of estimates.",
+      "url": "https://www.cnbc.com/2024/10/29/reddit-rddt-q3-2024.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107391065-1711045231372-gettyimages-2102319874-reddit394530_clsacluf.jpeg?v=1729892357&w=1920&h=1080",
+      "publishedAt": "2024-10-29T20:08:49Z",
+      "content": "Reddit shares jumped 22% in extended trading Tuesday, topping $100 for the first time, after the social media company reported third-quarter results that topped analyst estimates and issued an optimi… [+2425 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Deficit Threat Drives Bond Yields Higher - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/finance/investing/deficit-threat-drives-bond-yields-higher-6a043d44",
+      "urlToImage": null,
+      "publishedAt": "2024-10-29T20:04:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ben Cost",
+      "title": "Airlines are now required to pay cash refunds for delayed or canceled flights: DOT - New York Post ",
+      "description": "The painful days of pay delays are over for fliers.",
+      "url": "https://nypost.com/2024/10/29/lifestyle/airlines-are-now-required-to-pay-cash-refunds-for-delayed-or-canceled-flights-dot/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/92637496.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-10-29T20:03:00Z",
+      "content": "The painful days of pay delays are finally over. .\r\nTravelers no longer need to fear getting stuck in a financial holding pattern should their flight get scrapped. \r\nUS airlines are now required to i… [+3336 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "MATT OTT",
+      "title": "American consumers feeling much more confident as Election Day nears - The Associated Press",
+      "description": "American consumers are feeling quite a bit more confident this month as Election Day approaches, a business research group says. The Conference Board said Tuesday that its consumer confidence index jumped to 108.7 in October from 99.2 in September. It was the…",
+      "url": "https://apnews.com/article/consumer-confidence-inflation-economy-conference-board-e40f894edf5be2687114c344d95c8c63",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8ab9ccc/2147483647/strip/true/crop/8492x4777+0+442/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F95%2Fbd85c9079044eb8ae94eaa1d49c3%2F3eae802107194a03b34ceed784dd2b6d",
+      "publishedAt": "2024-10-29T19:56:00Z",
+      "content": "WASHINGTON (AP) American consumers are feeling quite a bit more confident this month as Election Day approaches, a business research group says.\r\nThe Conference Board said Tuesday that its consumer c… [+2469 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Shawn Tully",
+      "title": "Who is winning the election? Top data scientist launches electoral vote counter that shows the race moving in real time - Fortune",
+      "description": "Thomas Miller, a data scientist at Northwestern University, bases his predictions not on the polls, but on where people are placing political bets.",
+      "url": "https://fortune.com/2024/10/29/who-is-wining-the-election-trump-harris-odds-predictions/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/GettyImages-2168330769.jpg?resize=1200,600",
+      "publishedAt": "2024-10-29T19:48:00Z",
+      "content": "Over the past few weeks, Ive been following the forecasts for the presidential race posted by Thomas Miller, a data scientist at Northwestern University. Miller bases his predictions not on the polls… [+5565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "Job openings tumble more than expected to the lowest since January 2021 - Fox Business",
+      "description": "The Labor Department's JOLTS report for September showed fewer job openings than expected, with the number of unfilled positions at its lowest level since January 2021.",
+      "url": "https://www.foxbusiness.com/economy/job-openings-tumble-more-than-expected-lowest-since-january-2021",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/jobs-fair.jpg?ve=1&tl=1",
+      "publishedAt": "2024-10-29T19:40:00Z",
+      "content": "The number of job openings\r\n in the U.S. unexpectedly fell in September to the lowest level since January 2021, suggesting that the labor market is continuing to ease. \r\nJob openings declined by 418,… [+3159 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Exclusive | Elon Musk’s xAI in Talks to Raise Funding Valuing It at $40 Billion - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/tech/ai/elon-musks-xai-in-talks-to-raise-funding-valuing-it-at-40-billion-af808b9e",
+      "urlToImage": null,
+      "publishedAt": "2024-10-29T19:34:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sarah Min",
+      "title": "How the stock market is likely to react to the election outcome - CNBC",
+      "description": "Either way the results fall on Nov. 5 has the potential to roil markets — especially given the exceptionally tight race.",
+      "url": "https://www.cnbc.com/2024/10/29/how-the-stock-market-is-likely-to-react-to-the-election-outcome.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108051027-1729610875171-GettyImages-2180257560.jpg?v=1730202162&w=1920&h=1080",
+      "publishedAt": "2024-10-29T19:33:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PEOPLE"
+      },
+      "author": "https://www.facebook.com/peoplemag",
+      "title": "North Carolina Man Wins $1M Lottery Prize After Buying Ticket with $20 He Found on the Street - PEOPLE",
+      "description": "One North Carolina man used a $20 ticket found in a parking lot to purchase a lottery ticket, winning a $1M prize.",
+      "url": "https://people.com/man-wins-1m-after-buying-lottery-ticket-with-20usd-found-on-street-8736144",
+      "urlToImage": "https://people.com/thmb/DQfLZY3t82lY6hDLfzVPUVf62hY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1395x799:1397x801)/lottery-scratch-off-102924-55680876f4594090aca5cb2c17f151e3.jpg",
+      "publishedAt": "2024-10-29T19:27:42Z",
+      "content": "One North Carolina man had a stroke of good luck when he not only found a $20 bill but used it to buy a lottery ticket that saw him win big.\r\nJerry Hicks, a resident of Banner Elk, found $20 on the g… [+1298 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "OpenAI will start using AMD chips and could make its own AI hardware in 2026 - The Verge",
+      "description": "OpenAI will reportedly make a custom AI inference chip with Broadcom and TSMC but without trying to create its own network of foundries.",
+      "url": "https://www.theverge.com/2024/10/29/24282843/openai-custom-hardware-amd-nvidia-ai-chips",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg",
+      "publishedAt": "2024-10-29T19:05:56Z",
+      "content": "OpenAI will start using AMD chips and could make its own AI hardware in 2026\r\nOpenAI will start using AMD chips and could make its own AI hardware in 2026\r\n / Reuters reports an updated hardware stra… [+1745 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Tess Martinelli",
+      "title": "My daughter ate at McDonald's and got sick 10 days later. Now she's hospitalized with E. coli and acute kidney failure. - Business Insider",
+      "description": "A young girl was diagnosed with a life-threatening complication from E. coli, around the same time as the McDonald's E. coli outbreak.",
+      "url": "https://www.businessinsider.com/daughter-hospitalized-e-coli-during-mcdonalds-outbreak-2024-10",
+      "urlToImage": "https://i.insider.com/672106b29b3250dbbceac771?width=1200&format=jpeg",
+      "publishedAt": "2024-10-29T18:48:00Z",
+      "content": "This as-told-to essay is based on a conversation with Brittany Randall, a 39-year-old from Mesa County, Colorado, whose 15-year-old daughter, Kamberlyn Bowler, contracted E. coli at the same time as … [+3727 chars]"
+    }
+  ]
+}
